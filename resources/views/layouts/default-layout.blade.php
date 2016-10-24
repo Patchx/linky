@@ -28,7 +28,7 @@
   <link href="./css/bootstrap/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="./css/custom.scss" rel="stylesheet">
+  <link href="./css/custom.css" rel="stylesheet">
 
   <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
