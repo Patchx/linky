@@ -7,6 +7,9 @@
 	<div class="top-banner">
 		<div class="banner-title"><a href="/">Linky</a></div>
 	</div>
+	<div class="banner-spacer">
+		<div class="banner-title">Linky</div>
+	</div>
 </div>
 
 <div class="scroll-wrapper">

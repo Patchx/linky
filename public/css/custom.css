@@ -60,6 +60,12 @@ a:visited {
     text-align: center;
     display: table-cell;
     background-color: #245B89;
+    position: fixed;
+}
+
+.banner-spacer {
+    display: table-cell;
+    color:white;
 }
 
 .banner-title {
