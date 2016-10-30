@@ -11,18 +11,59 @@ body {
     font-family: 'Lobster', cursive;
 }
 
-.container {
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+a:hover {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+a:visited {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+/* ------------------------- */
+/* -- Welcome Page Styles -- */
+/* ------------------------- */
+
+.welcome-container {
     text-align: center;
     display: table-cell;
     vertical-align: middle;
 }
 
-.content {
+.welcome-content {
     text-align: center;
     display: inline-block;
 }
 
-.title {
+.welcome-title {
     font-size: 96px;
     color: #245B89;
+}
+
+.welcome-subtitle {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+
+/* ------------------- */
+/* -- Banner Styles -- */
+/* ------------------- */
+
+.top-banner {
+    text-align: center;
+    display: table-cell;
+    background-color: #245B89;
+    height: 100px;
+}
+
+.banner-title {
+    font-size: 72px;
+    color: white;
+    width: 100vw;
 }

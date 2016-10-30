@@ -32,7 +32,9 @@
 
   <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
-  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
 
   </head>
 
