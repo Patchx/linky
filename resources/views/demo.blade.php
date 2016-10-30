@@ -5,7 +5,15 @@
 
 <div>
 	<div class="top-banner">
-		<div class="banner-title"><a href="/">Linky</a></div>
+		<div class="banner-title">
+			<a href="#" class="pull-left banner-button">
+				<span class="glyphicon glyphicon-list"></span>
+			</a>
+			<a href="/">Linky</a>
+			<a href="#" class="pull-right banner-button">
+				<span class="glyphicon glyphicon-comment"></span>
+			</a>
+		</div>
 	</div>
 	<div class="banner-spacer">
 		<div class="banner-title">Linky</div>
