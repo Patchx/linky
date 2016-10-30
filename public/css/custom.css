@@ -67,3 +67,12 @@ a:visited {
     color: white;
     width: 100vw;
 }
+
+/* ------------------- */
+/* -- IFrame Styles -- */
+/* ------------------- */
+
+.scroll-wrapper {
+    -webkit-overflow-scrolling: touch;
+    overflow-y: scroll;
+}
