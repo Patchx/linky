@@ -9,7 +9,7 @@ body {
     display: table;
     font-weight: 100;
     font-family: 'Lobster', cursive;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 a {
@@ -43,7 +43,7 @@ a:visited {
 }
 
 .welcome-title {
-    font-size: 170px;
+    font-size: 160px;
     color: #245B89;
 }
 
@@ -63,7 +63,7 @@ a:visited {
 }
 
 .banner-title {
-    font-size: 50px;
+    font-size: 30px;
     color: white;
     width: 100vw;
 }
