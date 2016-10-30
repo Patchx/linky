@@ -15,6 +15,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/test', function() {
-	return view('linky-iframe');
+Route::get('/demo', function() {
+	return view('demo');
 });
