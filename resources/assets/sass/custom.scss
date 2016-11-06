@@ -11,6 +11,8 @@ $small-breakpoint: 768px;
 $medium-breakpoint: 992px;
 $large-breakpoint: 1200px;
 
+$stylish-font: 'Lobster', cursive;
+$simple-font: 'Open Sans', sans-serif;
 
 /* ------------------------ */
 /* -- Media Query Format -- */
@@ -40,7 +42,7 @@ body {
     width: 100%;
     display: table;
     font-weight: 100;
-    font-family: 'Lobster', cursive;
+    font-family: $stylish-font;
     font-size: 25px;
 }
 
@@ -90,7 +92,7 @@ a:visited {
 }
 
 .welcome-subtitle {
-    font-family: 'Open Sans', sans-serif;
+    font-family: $simple-font;
     font-size: 40px;
     font-weight: 500;
     color: $dark-blue;
