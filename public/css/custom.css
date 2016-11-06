@@ -128,4 +128,10 @@ a:visited {
 .close {
   font-size: 44px !important; }
 
+#cancel-comment-btn {
+  display: none; }
+
+#submit-comment-btn {
+  display: none; }
+
 /*# sourceMappingURL=custom.css.map */

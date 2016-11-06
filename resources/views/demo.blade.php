@@ -77,8 +77,13 @@
 			</div>
 
 			<div class="modal-footer">
-				<button type="button" class="btn btn-default big-button" data-dismiss="modal">Close</button>
+				<button type="button" id="close-comments-btn" class="btn btn-default big-button" data-dismiss="modal">Close</button>
+
+				<button type="button" id="cancel-comment-btn" class="btn btn-default big-button">Cancel</button>
+
 				<button type="button" id="new-comment-btn" class="btn btn-primary big-button"><span class="glyphicon glyphicon-plus"></span> Comment</button>
+
+				<button type="button" id="submit-comment-btn" class="btn btn-primary big-button"><span class="glyphicon glyphicon-check"></span> Submit</button>
 			</div>
 
 		</div>
@@ -87,18 +92,29 @@
 
 <script>
 
-	// ------------
-	// -- Events --
-	// ------------
+// ------------
+// -- Events --
+// ------------
 
-	$('.list-link').on('click', function(){
-		$('#list-modal').modal('hide');
-	});
+$('.list-link').on('click', function(){
+	$('#list-modal').modal('hide');
+});
 
-	$('#new-comment-btn').on('click', function(){
-		$('.new-comment').show();
-	});
+$('#new-comment-btn').on('click', function(){
+	$(this).hide();
+	$('#close-comments-btn').hide();
+	$('.new-comment').show();
+	$('#cancel-comment-btn').show();
+	$('#submit-comment-btn').show();
+});
 
+$('#cancel-comment-btn').on('click', function(){
+	$(this).hide();
+	$('.new-comment').hide();
+	$('#submit-comment-btn').hide();
+	$('#close-comments-btn').show();
+	$('#new-comment-btn').show();
+});
 
 </script>
 
