@@ -38,6 +38,12 @@ a:visited {
   color: inherit;
   text-decoration: inherit; }
 
+.simple-font {
+  font-family: "Source Sans Pro", sans-serif !important; }
+
+.stylish-font {
+  font-family: "Lobster", cursive !important; }
+
 /* ------------------------- */
 /* -- Welcome Page Styles -- */
 /* ------------------------- */
@@ -98,11 +104,22 @@ a:visited {
   -webkit-overflow-scrolling: touch;
   overflow-y: hidden; }
 
+/* ------------------ */
+/* -- Modal Styles -- */
+/* ------------------ */
+.modal-body {
+  font-family: "Source Sans Pro", sans-serif; }
+
 /* ------------------- */
 /* -- Button Styles -- */
 /* ------------------- */
 .white-text {
-  color: white !important;
+  color: white !important; }
+
+.big-button {
   font-size: 25px !important; }
+
+.close {
+  font-size: 44px !important; }
 
 /*# sourceMappingURL=custom.css.map */
