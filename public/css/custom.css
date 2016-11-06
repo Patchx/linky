@@ -35,8 +35,7 @@ a:visited {
 .welcome-container {
   text-align: center;
   display: table-cell;
-  vertical-align: middle;
-  padding: 20px; }
+  vertical-align: middle; }
 
 .welcome-content {
   text-align: center;
@@ -87,5 +86,17 @@ a:visited {
 .white-text {
   color: white !important;
   font-size: 25px !important; }
+
+/* ---------------------- */
+/* -- Size Breakpoints -- */
+/* ---------------------- */
+/* Extra small devices (phones, less than 768px) */
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .welcome-container {
+    padding: 20px; } }
+
+/* Medium devices (desktops, 992px and up) */
+/* Large devices (large desktops, 1200px and up) */
 
 /*# sourceMappingURL=custom.css.map */
