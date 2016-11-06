@@ -43,7 +43,7 @@
 
 					<li><a target="main-iframe" class="list-link" href="https://blog.hubspot.com/marketing/seo-friendly-blog-post-checklist-ht#sm.0001ly9bfim9gct4u9r12q9psmiau">SEO optimize your Blog</a></li>
 
-					<li><a target="main-iframe" class="list-link" href="https://pubs.acs.org/doi/full/10.1021/jp980769m">Sponer et al., J. Phys Chem 1998</a></li>
+					<li><a target="main-iframe" class="list-link" href="https://www.plantphysiol.org/content/149/4/1701.full">Pierik et al., Plant Physiology 2009</a></li>
 				</ol>
 			</div>
 
@@ -63,7 +63,7 @@
 
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<h1 class="modal-title" id="myModalLabel">Conversation: <span class="simple-font">Remm Hibiya</span></h1>
+				<h1 class="modal-title" id="myModalLabel">Conversation: <span class="simple-font">Hotel Remm Hibiya</span></h1>
 			</div>
 
 			<div class="modal-body">
