@@ -43,7 +43,7 @@
 
 					<li><a target="main-iframe" class="list-link" href="https://blog.hubspot.com/marketing/seo-friendly-blog-post-checklist-ht#sm.0001ly9bfim9gct4u9r12q9psmiau">SEO optimize your Blog</a></li>
 
-					<li><a target="main-iframe" class="list-link" href="https://www.plantphysiol.org/content/149/4/1701.full">Pierik et al., Plant Physiology 2009</a></li>
+					<li><a target="main-iframe" class="list-link" href="https://aob.oxfordjournals.org/content/115/6/961.full">Kegge et al., Annals of Botany 2015</a></li>
 				</ol>
 			</div>
 
