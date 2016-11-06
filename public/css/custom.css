@@ -1,6 +1,15 @@
 /* --------------- */
 /* -- Variables -- */
 /* --------------- */
+/* ------------------------ */
+/* -- Media Query Format -- */
+/* ------------------------ */
+/* Extra small devices (phones, less than 768px) */
+/*@media (max-width: $small-breakpoint) {}*/
+/* Small devices (tablets, up to 992px) */
+/*@media (max-width: $medium-breakpoint) {}*/
+/* Medium devices (desktops, up to 1200px) */
+/*@media (max-width: $large-breakpoint) {}*/
 /* -------------------- */
 /* -- General Styles -- */
 /* -------------------- */
@@ -36,6 +45,9 @@ a:visited {
   text-align: center;
   display: table-cell;
   vertical-align: middle; }
+  @media (max-width: 768px) {
+    .welcome-container {
+      padding: 20px; } }
 
 .welcome-content {
   text-align: center;
@@ -44,6 +56,9 @@ a:visited {
 .welcome-title {
   font-size: 160px;
   color: #245B89; }
+  @media (max-width: 768px) {
+    .welcome-title {
+      font-size: 130px; } }
 
 .welcome-subtitle {
   font-family: 'Open Sans', sans-serif;
@@ -86,17 +101,5 @@ a:visited {
 .white-text {
   color: white !important;
   font-size: 25px !important; }
-
-/* ---------------------- */
-/* -- Size Breakpoints -- */
-/* ---------------------- */
-/* Extra small devices (phones, less than 768px) */
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-  .welcome-container {
-    padding: 20px; } }
-
-/* Medium devices (desktops, 992px and up) */
-/* Large devices (large desktops, 1200px and up) */
 
 /*# sourceMappingURL=custom.css.map */

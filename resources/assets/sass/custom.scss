@@ -7,6 +7,25 @@ $light-blue: #337ab7;
 $blue: #245B89;
 $dark-blue: #011423;
 
+$small-breakpoint: 768px;
+$medium-breakpoint: 992px;
+$large-breakpoint: 1200px;
+
+
+/* ------------------------ */
+/* -- Media Query Format -- */
+/* ------------------------ */
+
+/* Extra small devices (phones, less than 768px) */
+/*@media (max-width: $small-breakpoint) {}*/
+
+/* Small devices (tablets, up to 992px) */
+/*@media (max-width: $medium-breakpoint) {}*/
+
+/* Medium devices (desktops, up to 1200px) */
+/*@media (max-width: $large-breakpoint) {}*/
+
+
 /* -------------------- */
 /* -- General Styles -- */
 /* -------------------- */
@@ -41,6 +60,7 @@ a:visited {
     text-decoration: inherit;
 }
 
+
 /* ------------------------- */
 /* -- Welcome Page Styles -- */
 /* ------------------------- */
@@ -49,6 +69,10 @@ a:visited {
     text-align: center;
     display: table-cell;
     vertical-align: middle;
+
+    @media (max-width: $small-breakpoint) {
+        padding: 20px;
+    }
 }
 
 .welcome-content {
@@ -59,6 +83,10 @@ a:visited {
 .welcome-title {
     font-size: 160px;
     color: $blue;
+
+    @media (max-width: $small-breakpoint) {
+        font-size: 130px;
+    }
 }
 
 .welcome-subtitle {
@@ -67,6 +95,7 @@ a:visited {
     font-weight: 500;
     color: $dark-blue;
 }
+
 
 /* ------------------- */
 /* -- Banner Styles -- */
@@ -95,6 +124,7 @@ a:visited {
     margin: 4px 10px;
 }
 
+
 /* ------------------- */
 /* -- IFrame Styles -- */
 /* ------------------- */
@@ -104,6 +134,7 @@ a:visited {
     overflow-y: hidden;
 }
 
+
 /* ------------------- */
 /* -- Button Styles -- */
 /* ------------------- */
@@ -112,22 +143,3 @@ a:visited {
     color:white !important;
     font-size:25px !important;
 }
-
-/* ---------------------- */
-/* -- Size Breakpoints -- */
-/* ---------------------- */
-
-/* Extra small devices (phones, less than 768px) */
-
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-    .welcome-container {
-        padding: 20px;
-    }
-}
-
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) {}
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {}
