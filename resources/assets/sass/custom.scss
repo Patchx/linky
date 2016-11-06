@@ -156,6 +156,15 @@ a:visited {
     font-family: $simple-font;
 }
 
+
+/* -------------------------- */
+/* -- Comment Modal Styles -- */
+/* -------------------------- */
+
+.new-comment {
+    display: none;
+}
+
 /* ------------------- */
 /* -- Button Styles -- */
 /* ------------------- */
@@ -171,3 +180,4 @@ a:visited {
 .close {
     font-size:44px !important;
 }
+

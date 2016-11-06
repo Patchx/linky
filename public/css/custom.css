@@ -110,6 +110,12 @@ a:visited {
 .modal-body {
   font-family: "Source Sans Pro", sans-serif; }
 
+/* -------------------------- */
+/* -- Comment Modal Styles -- */
+/* -------------------------- */
+.new-comment {
+  display: none; }
+
 /* ------------------- */
 /* -- Button Styles -- */
 /* ------------------- */
