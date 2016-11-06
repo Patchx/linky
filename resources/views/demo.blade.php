@@ -43,7 +43,7 @@
 
 					<li><a target="main-iframe" class="list-link" href="#">Blogger's Linky</a></li>
 
-					<li><a target="main-iframe" class="list-link" href="https://www.google.com/search?q=%http://www.nature.com/nature/dna50/watsoncrick.pdf&btnI=Im+Feeling+Lucky">J.D. Watson & F.H. Crick, Nature 1953</a></li>
+					<li><a target="main-iframe" class="list-link" href="https://www.google.com/search?q=%http://nature.com/nature/dna50/watsoncrick.pdf&btnI=Im+Feeling+Lucky">J.D. Watson & F.H. Crick, Nature 1953</a></li>
 				</ol>
 			</div>
 
