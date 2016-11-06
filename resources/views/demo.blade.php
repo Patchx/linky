@@ -72,7 +72,9 @@
 
 				<div class="new-comment">
 					<hr>
-					<input type="text" maxlength="100">
+					<input name="commenter-name" id="commenter-name" type="text" maxlength="20" placeholder=" Your Name..">
+					<div class="clearfix" style="padding-bottom:5px"></div>
+					<textarea name="comment-text" id="comment-text" maxlength="200" placeholder=" Your Comment.." style="width:100%"></textarea>
 				</div>
 			</div>
 
