@@ -43,7 +43,7 @@
 
 					<li><a target="main-iframe" class="list-link" href="https://blog.hubspot.com/marketing/seo-friendly-blog-post-checklist-ht#sm.0001ly9bfim9gct4u9r12q9psmiau">SEO optimize your Blog</a></li>
 
-					<li><a target="main-iframe" class="list-link" href="https://jxb.oxfordjournals.org/content/50/340/1629.full.pdf">Aphalo, Ballare & Scopel, Journal of Experimental Botany 1999</a></li>
+					<li><a target="main-iframe" class="list-link" href="https://pubs.acs.org/doi/full/10.1021/jp980769m">Sponer et al., J. Phys Chem 1998</a></li>
 				</ol>
 			</div>
 
