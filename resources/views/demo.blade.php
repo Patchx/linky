@@ -43,7 +43,7 @@
 
 					<li><a target="main-iframe" class="list-link" href="#">Blogger's Linky</a></li>
 
-					<li><a target="main-iframe" class="list-link" href="https://jxb.oxfordjournals.org/content/50/340/1629.full.pdf">Shade Avoidance Response</a></li>
+					<li><a target="main-iframe" class="list-link" href="https://jxb.oxfordjournals.org/content/50/340/1629.full.pdf">Aphalo, Ballare & Scopel, Journal of Experimental Botany 1999</a></li>
 				</ol>
 			</div>
 
