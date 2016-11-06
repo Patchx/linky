@@ -37,9 +37,9 @@
 
 			<div class="modal-body">
 				<ol>
-					<li><a target="main-iframe" class="list-link" href="https://www.hotels.com/hotel/details.html?pa=4&tab=description&hotel-id=346635&q-room-0-adults=2&ZSX=0&SYE=3&q-room-0-children=0">Remm Hibiya</a></li>
+					<li><a target="main-iframe" class="list-link" href="https://www.hotels.com/hotel/details.html?pa=4&tab=description&hotel-id=346635&q-room-0-adults=2&ZSX=0&SYE=3&q-room-0-children=0">Hotel Remm Hibiya</a></li>
 
-					<li><a target="main-iframe" class="list-link" href="https://www.booking.com/hotel/jp/hoshinoya-tokyo.html">Hoshinoya Tokyo</a></li>
+					<li><a target="main-iframe" class="list-link" href="https://www.booking.com/hotel/jp/hoshinoya-tokyo.html">Hotel Hoshinoya Tokyo</a></li>
 
 					<li><a target="main-iframe" class="list-link" href="https://blog.hubspot.com/marketing/seo-friendly-blog-post-checklist-ht#sm.0001ly9bfim9gct4u9r12q9psmiau">SEO optimize your Blog</a></li>
 
