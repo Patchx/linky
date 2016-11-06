@@ -43,7 +43,7 @@
 
 					<li><a target="main-iframe" class="list-link" href="#">Blogger's Linky</a></li>
 
-					<li><a target="main-iframe" class="list-link" href="#">My Research Paper</a></li>
+					<li><a target="main-iframe" class="list-link" href="http://www.nature.com/nature/dna50/watsoncrick.pdf">J.D. Watson & F.H. Crick, Nature 1953</a></li>
 				</ol>
 			</div>
 
