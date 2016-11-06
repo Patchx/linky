@@ -65,6 +65,9 @@ a:visited {
   font-size: 40px;
   font-weight: 500;
   color: #011423; }
+  @media (max-width: 768px) {
+    .welcome-subtitle {
+      font-size: 30px; } }
 
 /* ------------------- */
 /* -- Banner Styles -- */

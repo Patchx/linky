@@ -94,6 +94,10 @@ a:visited {
     font-size: 40px;
     font-weight: 500;
     color: $dark-blue;
+
+    @media (max-width: $small-breakpoint) {
+        font-size: 30px;
+    }    
 }
 
 
