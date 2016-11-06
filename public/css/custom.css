@@ -47,7 +47,7 @@ a:visited {
   vertical-align: middle; }
   @media (max-width: 768px) {
     .welcome-container {
-      padding: 20px; } }
+      padding: 10px 20px 20px 20px; } }
 
 .welcome-content {
   text-align: center;
