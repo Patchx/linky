@@ -25,7 +25,7 @@
 	</div>
 
 	<div class="banner-spacer">
-		<div class="banner-title">Linky</div>
+		<div class="banner-title">.</div>
 	</div>
 
 	<div class="scroll-wrapper">

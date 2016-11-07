@@ -40,7 +40,7 @@
 
   </head>
 
-  <body>
+  <body style="background-color:#337ab7">
 
     @yield('content')
 
