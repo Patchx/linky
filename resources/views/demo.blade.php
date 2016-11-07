@@ -3,7 +3,7 @@
 
 @section('content')
 
-<div>
+<div class="page-container">
 	<div class="top-banner">
 		<div class="banner-title">
 
@@ -23,13 +23,15 @@
 
 		</div>
 	</div>
+
 	<div class="banner-spacer">
 		<div class="banner-title">Linky</div>
 	</div>
-</div>
 
-<div class="scroll-wrapper">
-	<iframe name="main-iframe" sandbox="" src="https://www.hotels.com/hotel/details.html?pa=4&tab=description&hotel-id=346635&q-room-0-adults=2&ZSX=0&SYE=3&q-room-0-children=0"></iframe>
+	<div class="scroll-wrapper">
+		<iframe name="main-iframe" sandbox="" src="https://www.hotels.com/hotel/details.html?pa=4&tab=description&hotel-id=346635&q-room-0-adults=2&ZSX=0&SYE=3&q-room-0-children=0"></iframe>
+	</div>
+
 </div>
 
 <!-- Link List Modal -->
