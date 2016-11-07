@@ -108,7 +108,7 @@ a:visited {
   -webkit-overflow-scrolling: touch;
   overflow-y: hidden; }
   .scroll-wrapper iframe {
-    width: 100vw;
+    width: 100%;
     padding-left: 7px;
     padding-right: 7px;
     height: 93vh;
