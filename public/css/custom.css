@@ -95,14 +95,21 @@ a:visited {
   width: 100vw; }
 
 .banner-button {
-  margin: 4px 10px; }
+  margin: 4px 15px; }
 
 /* ------------------- */
 /* -- IFrame Styles -- */
 /* ------------------- */
 .scroll-wrapper {
   -webkit-overflow-scrolling: touch;
-  overflow-y: hidden; }
+  overflow-y: hidden;
+  background-color: #337ab7; }
+  .scroll-wrapper iframe {
+    width: 100%;
+    padding-left: 7px;
+    padding-right: 7px;
+    height: 93vh;
+    border: none; }
 
 /* ------------------ */
 /* -- Modal Styles -- */

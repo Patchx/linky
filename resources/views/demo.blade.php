@@ -6,13 +6,21 @@
 <div>
 	<div class="top-banner">
 		<div class="banner-title">
-			<a href="#" data-toggle="modal" data-target="#list-modal" class="pull-left banner-button fadeOut">
+
+			<a href="#" data-toggle="modal" data-target="#list-modal" class="pull-left banner-button">
 				<span class="glyphicon glyphicon-list"></span>
 			</a>
+
 			<a href="/">Linky</a>
-			<a href="#" data-toggle="modal" data-target="#comments-modal" class="pull-right banner-button fadeOut">
+
+			<a href="#" data-toggle="modal" data-target="#comments-modal" class="pull-right banner-button">
 				<span class="glyphicon glyphicon-comment"></span>
 			</a>
+
+			<a href="https://www.hotels.com/hotel/details.html?pa=4&tab=description&hotel-id=346635&q-room-0-adults=2&ZSX=0&SYE=3&q-room-0-children=0" target="_blank" class="pull-right banner-button">
+				<span class="glyphicon glyphicon-share"></span>
+			</a>
+
 		</div>
 	</div>
 	<div class="banner-spacer">
@@ -21,7 +29,7 @@
 </div>
 
 <div class="scroll-wrapper">
-	<iframe name="main-iframe" sandbox="" style="width:100%; height:90vh" src="https://www.hotels.com/hotel/details.html?pa=4&tab=description&hotel-id=346635&q-room-0-adults=2&ZSX=0&SYE=3&q-room-0-children=0"></iframe>
+	<iframe name="main-iframe" sandbox="" src="https://www.hotels.com/hotel/details.html?pa=4&tab=description&hotel-id=346635&q-room-0-adults=2&ZSX=0&SYE=3&q-room-0-children=0"></iframe>
 </div>
 
 <!-- Link List Modal -->
