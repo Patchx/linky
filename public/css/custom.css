@@ -111,9 +111,9 @@ a:visited {
   padding-right: 7px;
   overflow-y: hidden; }
   .scroll-wrapper iframe {
-    width: 1px !important;
-    min-width: 100% !important;
-    *width: 100% !important;
+    width: 1px;
+    min-width: 100%;
+    *width: 100%;
     height: 93vh;
     border: none;
     background-color: #337ab7; }
