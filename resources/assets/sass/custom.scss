@@ -125,7 +125,8 @@ a:visited {
 
 .banner-spacer {
     display: table-cell;
-    color: white;
+    color: $light-blue;
+    background-color: $light-blue;
 }
 
 .banner-title {
@@ -148,7 +149,7 @@ a:visited {
     overflow-y: hidden;
 
     iframe {
-        width:100%;
+        width:100vw;
         padding-left: 7px;
         padding-right: 7px;
         height:93vh;

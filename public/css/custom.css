@@ -87,7 +87,8 @@ a:visited {
 
 .banner-spacer {
   display: table-cell;
-  color: white; }
+  color: #337ab7;
+  background-color: #337ab7; }
 
 .banner-title {
   font-size: 30px;
@@ -104,7 +105,7 @@ a:visited {
   -webkit-overflow-scrolling: touch;
   overflow-y: hidden; }
   .scroll-wrapper iframe {
-    width: 100%;
+    width: 100vw;
     padding-left: 7px;
     padding-right: 7px;
     height: 93vh;
