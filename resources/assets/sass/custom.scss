@@ -72,6 +72,7 @@ a:visited {
 
 .page-container {
     background-color: $light-blue;
+    overflow-x: hidden;
 }
 
 
@@ -150,15 +151,14 @@ a:visited {
 
 .scroll-wrapper {
     -webkit-overflow-scrolling: touch;
-    width: 100%;
     padding-left: 7px;
     padding-right: 7px;
     overflow-y: hidden;
 
     iframe {
         width: 1px;
-        min-width:100%;
-        *width: 100%;
+        min-width:99%;
+        *width: 99%;
         height:93vh;
         border: none;
         background-color: $light-blue;
