@@ -109,7 +109,8 @@ a:visited {
     padding-left: 7px;
     padding-right: 7px;
     height: 93vh;
-    border: none; }
+    border: none;
+    background-color: white; }
 
 /* ------------------ */
 /* -- Modal Styles -- */
