@@ -103,12 +103,14 @@ a:visited {
 .scroll-wrapper {
   -webkit-overflow-scrolling: touch;
   overflow-y: hidden;
-  background-color: #337ab7; }
+  background-color: #337ab7;
+  width: 100%;
+  padding-left: 7px;
+  padding-right: 7px;
+  height: 93.5vh; }
   .scroll-wrapper iframe {
     width: 100%;
-    padding-left: 7px;
-    padding-right: 7px;
-    height: 93vh;
+    height: 99%;
     border: none;
     background-color: white; }
 

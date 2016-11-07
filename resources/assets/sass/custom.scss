@@ -147,12 +147,14 @@ a:visited {
     -webkit-overflow-scrolling: touch;
     overflow-y: hidden;
     background-color: $light-blue;
+    width:100%;
+    padding-left: 7px;
+    padding-right: 7px;
+    height:93.5vh;
 
     iframe {
         width:100%;
-        padding-left: 7px;
-        padding-right: 7px;
-        height:93vh;
+        height:99%;
         border: none;
         background-color: white;
     }
