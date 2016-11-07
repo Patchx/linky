@@ -47,13 +47,13 @@
 
 			<div class="modal-body">
 				<ol>
-					<li><a target="main-iframe" class="list-link" href="https://www.hotels.com/hotel/details.html?pa=4&tab=description&hotel-id=346635&q-room-0-adults=2&ZSX=0&SYE=3&q-room-0-children=0?device=mobile">Hotel Remm Hibiya</a></li>
+					<li><a target="main-iframe" class="list-link" href="https://www.hotels.com/hotel/details.html?pa=4&tab=description&hotel-id=346635&q-room-0-adults=2&ZSX=0&SYE=3&q-room-0-children=0">Hotel Remm Hibiya</a></li>
 
-					<li><a target="main-iframe" class="list-link" href="https://www.booking.com/hotel/jp/hoshinoya-tokyo.html?device=mobile">Hotel Hoshinoya Tokyo</a></li>
+					<li><a target="main-iframe" class="list-link" href="https://www.booking.com/hotel/jp/hoshinoya-tokyo.html">Hotel Hoshinoya Tokyo</a></li>
 
-					<li><a target="main-iframe" class="list-link" href="https://blog.hubspot.com/marketing/seo-friendly-blog-post-checklist-ht#sm.0001ly9bfim9gct4u9r12q9psmiau?device=mobile">SEO optimize your Blog</a></li>
+					<li><a target="main-iframe" class="list-link" href="https://blog.hubspot.com/marketing/seo-friendly-blog-post-checklist-ht#sm.0001ly9bfim9gct4u9r12q9psmiau">SEO optimize your Blog</a></li>
 
-					<li><a target="main-iframe" class="list-link" href="https://aob.oxfordjournals.org/content/115/6/961.full?device=mobile">Kegge et al., Annals of Botany 2015</a></li>
+					<li><a target="main-iframe" class="list-link" href="https://aob.oxfordjournals.org/content/115/6/961.full">Kegge et al., Annals of Botany 2015</a></li>
 				</ol>
 			</div>
 
